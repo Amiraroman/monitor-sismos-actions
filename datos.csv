@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2026-10-31T13:17:29.030Z,18.9686,-64.2266,20,3.77,md,23,299,0.5095,0.29,pr,pr2026304000,2026-10-31T15:16:28.040Z,"92 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,1.03,22.65,0.16,21,reviewed,pr,pr
-2026-10-31T13:10:08.987Z,-6.4305,128.9289,254.829,8.3,mb,27,139,6.732,0.83,us,us7000tuiw,2026-10-31T14:37:11.040Z,"Banda Sea",earthquake,12.76,9.889,0.116,24,reviewed,us,us
+2026-10-31T13:10:08.987Z,-6.4305,128.9289,254.829,8.4,mb,27,139,6.732,0.83,us,us7000tuiw,2026-10-31T14:37:11.040Z,"Banda Sea",earthquake,12.76,9.889,0.116,24,reviewed,us,us
 2026-10-31T11:31:12.352Z,-13.9069,165.6759,10,5,mww,46,111,6.739,0.93,us,us7000tuif,2026-10-31T11:47:21.040Z,"196 km NW of Port-Olry, Vanuatu",earthquake,10.34,1.884,0.078,16,reviewed,us,us
 2026-10-31T10:42:10.031Z,-19.2212,-177.4956,575.79,4.4,mb,36,89,4.044,0.82,us,us7000tui9,2026-10-31T11:03:20.040Z,"Fiji region",earthquake,13.92,9.712,0.101,28,reviewed,us,us
 2026-10-31T09:30:49.100Z,18.937,-63.570333333333,17.59,3.1,md,7,334,0.9052,0.45,pr,pr71538038,2026-10-31T10:50:03.850Z,"95 km NNW of Sandy Ground Village, Anguilla",earthquake,4.15,31.61,0.13113739381928,6,reviewed,pr,pr
