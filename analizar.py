@@ -5,7 +5,7 @@ import os
 import sys
 from datetime import datetime, timedelta, timezone
 
-ESTUDIANTE = "AMIRA"
+ESTUDIANTE = "AMIRA ROMAN"
 TITULO = "Monitor automático de sismos recientes"
 FUENTE_URL = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/2.5_week.csv"
 DOC_URL = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php"
